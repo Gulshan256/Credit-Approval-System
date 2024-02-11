@@ -21,11 +21,11 @@ This project is a credit approval system built using Django 4+ with Django Rest 
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Gulshan256/Credit-Approval-System.git
 
 ```
-git clone 
-cd Credit_Approval_System
+git clone https://github.com/Gulshan256/Credit-Approval-System.git
+cd Credit-Approval-System
 ```
 
 2. Install dependencies:
