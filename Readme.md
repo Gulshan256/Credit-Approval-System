@@ -84,6 +84,7 @@ python manage.py migrate
    ```bash
    SELECT setval('customer_customer_id_seq', (SELECT MAX(customer_id) FROM customer) + 1);
    SELECT setval('loan_id_seq', (SELECT MAX(id) FROM loan) + 1); 
+    ```
 
 7. Run the development server:
 
